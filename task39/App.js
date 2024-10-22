@@ -1,0 +1,58 @@
+
+import React from 'react';
+import { View } from 'react-native';
+
+import Task16 from './tasks/task16';
+import Task17 from './tasks/task17';
+import Task18 from './tasks/task18';
+import Task19 from './tasks/task19';
+import Task20 from './tasks/task20';
+import Task21 from './tasks/task21';
+import Task22 from './tasks/task22';
+import Task23 from './tasks/task23';
+import Task24 from './tasks/task24';
+import Task25 from './tasks/task25';
+import Task26 from './tasks/task26';
+import Task27 from './tasks/task27';
+import Task28 from './tasks/task28';
+import Task29 from './tasks/task29';
+import Task30 from './tasks/task30';
+import Task31 from './tasks/task31';
+import Task32 from './tasks/task32';
+import Task33 from './tasks/task33';
+import Task34 from './tasks/task34';
+import Task35 from './tasks/task35';
+import Task36 from './tasks/task36';
+import Task37 from './tasks/task37';
+import Task38 from './tasks/task38';
+import Task39 from './tasks/task39';
+
+
+export default function App  () {
+  return (
+//<Task16></Task16>
+//<Task17></Task17>
+//<Task18></Task18>
+//<Task19></Task19>
+//<Task20></Task20>
+//<Task21></Task21>
+//<Task22></Task22>
+//<Task23></Task23>
+//<Task24></Task24>
+//<Task25></Task25>
+//<Task26></Task26>
+ //<Task27></Task27>
+ //<Task28></Task28>
+// <Task29></Task29>
+ //<Task30></Task30>
+ //<Task31></Task31>
+ //<Task32></Task32>
+ //<Task33></Task33>
+ //<Task34></Task34>
+ //<Task35></Task35>
+ //<Task36></Task36>
+ //<Task37></Task37>
+ //<Task38></Task38>
+<Task39></Task39>
+  );
+};
